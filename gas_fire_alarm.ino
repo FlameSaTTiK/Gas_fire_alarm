@@ -20,7 +20,6 @@ int temp;
 char auth[] = "Auth Token";
 char ssid[] = "WiFi SSID"; 
 char pass[] = "WiFi Password";
-/////coded by Rounak Dey////
 void setup()
 {
   pinMode(lm393, INPUT);
